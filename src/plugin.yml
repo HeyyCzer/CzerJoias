@@ -1,0 +1,8 @@
+name: CzerJoias
+author: HeyyCzer
+main: me.czergames.joias.Main
+version: 2.1.4
+
+commands:
+  joias:
+    aliases: [joia, manopla, manoplas]

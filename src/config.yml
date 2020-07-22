@@ -1,0 +1,25 @@
+inventario:
+  linhas: 4 # Quantidade de linhas que o inventário do /joias terá
+  nome: "&7&lManoplas do Infinito" # Nome do Inventário de Seleção
+
+# Olá, para lhe ajudar a configurar o Plugin corretamente, gostaria de deixar a Lista de efeitos válidos abaixo!
+# https://helpch.at/docs/1.8/index.html?org/bukkit/PotionEffectType.html
+# E também os itens válidos, confira a lista:
+# https://helpch.at/docs/1.8/org/bukkit/Material.html
+joias:
+  joiaTeste:
+    item: "STAINED_GLASS_PANE:14"
+    item_ativado: "STAINED_GLASS_PANE:6"
+    nome: "&cJoia de Testes"
+    lore:
+      - "&7Utilize esta joia para receber"
+      - "&7efeitos de regeneração absurdos e"
+      - "&7sobrenaturais, torne-se um &cDeus&7!"
+    efeito: "REGENERATION"
+    nivel: 3
+    slot: 13
+
+mundos_desativados:
+  - "world_nether"
+
+permissao_admin: "czerjoias.admin"

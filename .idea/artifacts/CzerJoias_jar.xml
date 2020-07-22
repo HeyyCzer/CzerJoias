@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CzerJoias:jar">
+    <output-path>$PROJECT_DIR$/../../../Área de Trabalho/Mais Arquivos/Projetos Minecraft/Plugins Servers/Servidores/Testes/plugins</output-path>
+    <root id="archive" name="CzerJoias.jar">
+      <element id="module-output" name="CzerJoias" />
+    </root>
+  </artifact>
+</component>
